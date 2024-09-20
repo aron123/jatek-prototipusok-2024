@@ -9,4 +9,4 @@ Féléves követelmények ismertetése, szükséges szoftverek telepítése.
 ## 2. hét
 JavaScript alapok gyakorlása. Egyszerű nyelvi kvízjáték készítése HTML, CSS és JavaScript felhasználásával. 
 
-- Projekt: Nyelvi kvízjáték
+- Projekt: [Nyelvi kvízjáték](https://github.com/aron123/jatek-prototipusok-2024/blob/main/language-quiz/)
