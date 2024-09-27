@@ -15,3 +15,5 @@ JavaScript alapok gyakorlása. Egyszerű nyelvi kvízjáték készítése HTML, 
 Game Design Document. Phaser 3 keretrendszer alapjai: jelenetek, sprite-ok, ütközésvizsgálat, kamera effektek.
 
 * [Asset-ek letöltése](https://github.com/aron123/jatek-prototipusok-2024/raw/main/road-crossing-assets.zip)
+
+- Projekt: ["Road-Crossing" játék](https://github.com/aron123/jatek-prototipusok-2024/blob/main/road-crossing/)
