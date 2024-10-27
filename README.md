@@ -19,7 +19,15 @@ Game Design Document. Phaser 3 keretrendszer alapjai: jelenetek, sprite-ok, ütk
 - Projekt: ["Road-Crossing" játék](https://github.com/aron123/jatek-prototipusok-2024/blob/main/road-crossing/)
 
 ## 4. hét
+Elmaradt (EvoCampus rendezvény).
+
+## 5. hét
 Audio kezelés, in-between animáció, sprite interakciók.
 
 * [Template letöltése](https://github.com/aron123/jatek-prototipusok-2024/raw/main/spanish-learning-game-template.zip)
 - Projekt: [Spanyol nyelvtanuló játék](https://github.com/aron123/jatek-prototipusok-2024/blob/main/spanish-learning-game/)
+
+## 6-7. hét
+Elmaradt (dékáni szünet, rektori szünet).
+
+## 8. hét
