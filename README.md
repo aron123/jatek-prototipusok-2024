@@ -30,4 +30,9 @@ Audio kezelés, in-between animáció, sprite interakciók.
 ## 6-7. hét
 Elmaradt (dékáni szünet, rektori szünet).
 
-## 8. hét
+## 8-9. hét
+Spritesheet animáció, időzített események, több scene kezelése.
+
+* [Template letöltése](https://github.com/aron123/jatek-prototipusok-2024/raw/main/virtual-pet-game-template.zip)
+
+- Projekt: Virtuális kisállat nevelde
