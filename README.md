@@ -22,4 +22,4 @@ Game Design Document. Phaser 3 keretrendszer alapjai: jelenetek, sprite-ok, ütk
 Audio kezelés, in-between animáció, sprite interakciók.
 
 * [Template letöltése](https://github.com/aron123/jatek-prototipusok-2024/raw/main/spanish-learning-game-template.zip)
-- Projekt: Spanyol nyelvtanuló játék
+- Projekt: [Spanyol nyelvtanuló játék](https://github.com/aron123/jatek-prototipusok-2024/blob/main/spanish-learning-game/)
