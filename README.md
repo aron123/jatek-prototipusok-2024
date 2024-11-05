@@ -35,4 +35,4 @@ Spritesheet animáció, időzített események, több scene kezelése.
 
 * [Template letöltése](https://github.com/aron123/jatek-prototipusok-2024/raw/main/virtual-pet-game-template.zip)
 
-- Projekt: Virtuális kisállat nevelde
+- Projekt: [Virtuális kisállat nevelde](https://github.com/aron123/jatek-prototipusok-2024/blob/main/virtual-pet-game/)
