@@ -42,7 +42,7 @@ Fizikai motor, testekre ható erők, ütközés- és átfedésvizsgálat, platfo
 
 - [Template letöltése](https://github.com/aron123/jatek-prototipusok-2024/raw/main/platformer-game-template.zip)
 - [Pályadefiníció letöltése](https://raw.githubusercontent.com/aron123/jatek-prototipusok-2024/main/platformer-game-lvl-data.json)
-- Projekt: Platformer játék
+- Projekt: [Platformer játék](https://github.com/aron123/jatek-prototipusok-2024/blob/main/platformer-game/)
 
 ## 12-14. hét
 Csapatfeladatokkal kapcsolatos konzultáció, beadandók bemutatása és védése.
