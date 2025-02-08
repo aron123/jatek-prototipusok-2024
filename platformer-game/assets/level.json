@@ -1,0 +1,53 @@
+{
+    "player": {
+        "x": 180,
+        "y": 450
+    },
+    "gorilla": {
+        "x": 28,
+        "y": 46
+    },
+    "spawner": {
+        "interval": 2000,
+        "speed": 100,
+        "lifespan": 5000
+    },
+    "platforms": [
+       {
+          "x": 72,
+          "y": 450,
+          "tileCount": 6,
+          "texture": "block"
+       },
+       {
+          "x": 0,
+          "y": 330,
+          "tileCount": 8,
+          "texture": "block"
+       },
+       {
+          "x": 72,
+          "y": 210,
+          "tileCount": 8,
+          "texture": "block"
+       },
+       {
+          "x": 0,
+          "y": 90,
+          "tileCount": 7,
+          "texture": "block"
+       },
+       {
+          "x": 0,
+          "y": 560,
+          "tileCount": 1,
+          "texture": "ground"
+       }
+    ],
+    "fires": [
+        { "x": 50, "y": 545 },
+        { "x": 140, "y": 436 },
+        { "x": 10, "y": 316 },
+        { "x": 346, "y": 196 }
+    ]
+}
